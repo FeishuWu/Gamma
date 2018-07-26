@@ -1,6 +1,5 @@
 ---
 title: "project"
-author: "Huimei Huang"
 date: "7/17/2018"
 output: html_document
 ---
