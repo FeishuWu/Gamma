@@ -1,10 +1,3 @@
----
-title: "project"
-author: "Huimei Huang"
-date: "7/17/2018"
-output: html_document
----
-
 ```{r}
 data <- read.csv("TrainH1BLast.csv")[, -1]
 dim(data)
